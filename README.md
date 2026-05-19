@@ -1,16 +1,61 @@
-## Hi there 👋
+## 👩🏻‍💻 Lívia Figueiró 
 
-<!--
-**liviafigueiro/liviafigueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Sistemas de Informação`**
 
-Here are some ideas to get you started:
+Construindo minha trajetória na tecnologia com dedicação, curiosidade e muita vontade de aprender. Sou movida por desafios e acredito no crescimento constante através do esforço, da prática e da persistência. Tenho interesse em tecnologia, inovação, desenvolvimento profissional, e, especialmente, dados!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Linguagens e Tecnologia
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  
+  <img 
+  align="left"
+  alt="MYSQL"
+  title="MYSQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+
+  <img
+  align="left"
+  alt="sql"
+  title="sql"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+          
+  <img
+  align="left"
+  alt="sql"
+  title="sql"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+  <img
+  align="left"
+  alt="sql"
+  title="sql"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+  <img
+  align="left"
+  alt="sql"
+  title="sql"
+  width="30px"
+  style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+          
+          
+          
+          
